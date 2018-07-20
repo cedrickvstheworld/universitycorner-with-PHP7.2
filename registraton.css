@@ -1,0 +1,64 @@
+body{
+    background-image: url("images/bg2.jpg");
+    background-size: 1370px 700px;
+}
+
+
+.well{
+background-color: rgba(255, 255, 255, 0.21);
+}
+
+
+
+.name{
+    width: 350px;
+}
+
+
+.address{
+    width: 670px;
+}
+
+.as{
+    width: 350px;
+}
+
+.an{
+    width: 250px;
+}
+
+.sigup{
+    height: 40px;
+    width: 90px;
+}
+
+.list-inline{
+    text-align: right;
+}
+
+
+.copyright{
+    text-align: center;
+}
+
+
+
+.panel-footer{
+    background-color: black;
+}
+
+.heading{
+    color: #22b5ff;
+    font-size: 20px;
+}
+
+
+.lbl{
+   color: black;
+    font-size: 16px;
+}
+
+
+.year{
+    width: 100px;
+}

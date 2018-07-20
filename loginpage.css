@@ -1,0 +1,90 @@
+body{
+    background-image: url("images/bg2.jpg");
+    background-size: 1370px 700px;
+}
+
+.form-group{
+    background-color: rgba(255, 255, 255, 0.12);
+    text-align: center;
+    width: 400px;
+    margin-left: 35%;
+    margin-top: 135px;
+}
+
+.formtext{
+    color: #22b5ff;
+    font-size: 20px;
+}
+
+.textlink{
+    color: white;
+}
+
+.btn-sm{
+    font-size: 15px;
+    color: black;
+    font-family: "Arial Black";
+}
+
+.asd{
+    text-align: right;
+    margin-top: 15px;
+}
+
+.list-inline{
+    text-align: right;
+}
+
+
+.copyright{
+    text-align: center;
+}
+
+
+
+.panel-footer{
+    background-color: black;
+}
+
+#txtar{
+    color: #ff981e;
+}
+
+.text-white{
+    color: white;
+}
+
+.text-sky{
+    color: deepskyblue;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button{
+    -webkit-appearance: none !important;
+    margin: 0 !important;
+
+}
+
+
+#privacy{
+    position: absolute;
+    width: 400px;
+    margin-top: 200px;
+    background-color: white;
+}
+
+.close {
+    background: white;
+    color: black;
+    line-height: 25px;
+    text-align: center;
+    width: 24px;
+    font-weight: bold;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+}
+
+.close:hover {
+    background: red;
+}

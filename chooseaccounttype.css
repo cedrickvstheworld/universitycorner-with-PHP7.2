@@ -1,0 +1,39 @@
+body{
+    background-image: url("images/bg2.5.jpg");
+    background-size: 1370px 700px;
+}
+
+.title{
+    color: white;
+}
+
+.copyright{
+    text-align: center;
+}
+
+
+
+.panel-footer{
+    background-color: black;
+}
+
+.accounttype{
+    width: 300px;
+
+}
+
+.well{
+    background-color: #fcb41e;
+}
+
+.list-inline{
+    text-align: right;
+}
+
+.text-capitalize{
+    color: black;
+    font-family: "Segoe UI Black";
+}
+
+
+

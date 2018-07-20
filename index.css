@@ -1,0 +1,489 @@
+body{
+}
+
+.img-responsive{
+    width: 30px;
+    height: 30px;
+}
+
+.imgbtn{
+    width: 20px;
+    height: 20px;
+}
+
+.memo{
+    overflow: hidden;
+    resize: none;
+}
+
+
+.form-group{
+     background-color: white;
+     color: black;
+}
+
+.close {
+    background: white;
+    color: black;
+    line-height: 25px;
+    text-align: center;
+    width: 24px;
+    font-weight: bold;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+}
+
+.close:hover {
+    background: red;
+}
+
+.createclass{
+    width: 350px;
+}
+
+
+#createclassmodal{
+    position: absolute;
+    width: 400px;
+    margin-top: 200px;
+}
+
+#gradingsetting{
+    position: absolute;
+    width: 450px;
+    height: 500px;
+    margin-top: 120px;
+}
+
+#setscoreboard{
+    position: absolute;
+    width: 450px;
+    height: 500px;
+    margin-top: 120px;
+}
+
+#settermpercentages{
+    position: absolute;
+    width: 500px;
+    height: 450px;
+    margin-top: 120px;
+}
+
+
+.sclasscode{
+    width: 80px;
+}
+.set{
+    width: 50px;
+    height: 25px;
+}
+
+.cellwidth{
+    width: 200px;
+}
+
+.theadtitle{
+    font-weight: bold;
+}
+.celltext{
+    color: green;
+    padding-left: 0;
+}
+
+.copyright{
+    text-align: center;
+}
+
+
+
+.panel-footer{
+    background-color: black;
+}
+
+.list-inline{
+    text-align: right;
+}
+
+.pagefont{
+    font-family: Tahoma;
+    font-size: 15px;
+    color: black;
+}
+
+.panel-footer{
+    position: fixed;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    margin-bottom: 0px;
+}
+.bodyscroll{
+    height: 700px;
+    overflow-y: auto;
+}
+
+ .pagebody{
+ margin-top: 80px;
+ margin-bottom: 60px;
+ }
+
+ .searchbg{
+     background-color: black;
+ }
+
+ #postbtn{
+     text-align: right;
+ }
+
+
+#joinclassmodal{
+    position: absolute;
+    width: 290px;
+    margin-top: 210px;
+}
+
+#joinbtn{
+    height: 30px;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button{
+    -webkit-appearance: none !important;
+    margin: 0 !important;
+
+}
+
+
+#exTab2 h3 {
+    color : #0f0f0f;
+    background-color: #ffffff;
+    padding : 5px 15px;
+}
+
+/* remove border radius for the tab */
+
+#exTab1 .nav-pills > li > a {
+    border-radius: 0;
+}
+
+/* change border radius for the tab , apply corners on top*/
+
+#exTab3 .nav-pills > li > a {
+    border-radius: 4px 4px 0 0 ;
+}
+
+#exTab3 .tab-content {
+    color : #0f0f0f;
+    background-color: #ffffff;
+    padding : 5px 15px;
+}
+
+
+.tabtext{
+    color: #000000;
+    font-size: 20px;
+}
+
+
+.content{
+    height: 400px;
+}
+
+.listbody{
+    overflow-y: scroll;
+}
+
+.options{
+    background-color: #dedede;
+}
+
+.table12{
+    height: 320px;
+}
+
+
+.studentlistbox{
+    background-color: #e2f3ce;
+    height: 460px;
+ }
+
+.navbar{
+    background-color: grey;
+}
+
+.attendancelistbody{
+    height: 100px;
+    display: block;
+}
+
+.attendancelist{
+    background-color: #e2f3ce;
+    display:block;
+    overflow:auto;
+    height:300px;
+}
+
+
+
+
+.score{
+    width: 55px;
+}
+
+#cancel{
+    width: 100px;
+}
+
+.generalrecordheader{
+    height: 40px;
+    background-color: #c0c0c0;
+}
+
+.recordlistbody{
+     background-color: #eaf37e;
+    display: block;
+     overflow:auto;
+     height:150px;
+ }
+
+
+#showhere{
+    position: absolute;
+    width: 600px;
+    margin-top: 170px;
+    height: 500px;
+}
+
+
+.attendancehistbody{
+    height: 100px;
+    display: block;
+}
+
+.attendancehistlist{
+    background-color: #e2f3ce;
+    display:block;
+    overflow:auto;
+    height:200px;
+}
+
+.listblock{
+    height: 100px;
+    display: block;
+}
+
+.classlistbody {
+    background-color: #d9e6d8;
+    display:block;
+    overflow:auto;
+    height:200px;
+}
+
+.classset{
+    background-color: #e6e49d;
+    height: 220px;
+}
+
+
+.pinnedlist{
+    background-color: rgba(77, 181, 19, 0.75);
+    height: 280px;
+}
+
+.pinheader{
+    height: 20px;
+}
+
+.pinbody{
+    height: 100px;
+    display: block;
+}
+
+.block{
+    display:block;
+    overflow:auto;
+    height:150px;
+}
+
+
+
+.feedscontent{
+    background-color: rgba(230, 240, 182, 0.5);
+}
+
+.infoline{
+    background-color: yellow;
+}
+
+
+
+.pinnedlist{
+    margin-top: 60px;
+    width: 250px;
+}
+.profile{
+    width: 250px;
+    margin-top: 0;
+    height: 200px;
+}
+
+
+
+
+.feedscontent{
+    white-space: pre-wrap;
+}
+
+#changepmodal{
+    position: absolute;
+    width: 300px;
+    margin-top: 150px;
+}
+
+
+#editaccountmodal{
+    position: absolute;
+    width: 500px;
+    margin-top: 150px;
+    height: 400px;
+}
+
+
+.glbody{
+    height: 100px;
+    display: block;
+}
+
+.glscroll{
+    background-color: #caf0e1;
+    display:block;
+    overflow:auto;
+    width: 250px;
+    height:200px;
+}
+
+.gradelist{
+    width: 250px;
+    padding-left: 50px;
+}
+
+.studattendance{
+    height: 100px;
+    display: block;
+}
+
+.studattendancebody{
+    background-color: #e2f3ce;
+    display:block;
+    overflow:auto;
+    height:300px;
+}
+
+.classmark{
+    background-color: #9c9499;
+}
+
+#studcodemod{
+    position: absolute;
+    width: 290px;
+    margin-top: 210px;
+}
+
+.shityrec{
+    background-color: whitesmoke;
+}
+
+#changepmodalparent{
+    position: absolute;
+    width: 300px;
+    margin-top: 150px;
+}
+
+.attendancehistlist2{
+    background-color: #e2f3ce;
+    display:block;
+    overflow:auto;
+    height:150px;
+}
+
+.textp{
+    color: #ff6c02;
+}
+
+.listblock2{
+    height: 100px;
+    display: block;
+    width: 250px;
+}
+
+.classlistbody2 {
+    background-color: #d9e6d8;
+    display:block;
+    overflow:auto;
+    height:200px;
+}
+
+.generalrecordheader2{
+    height: 40px;
+    background-color: #c0c0c0;
+    width: 250px;
+}
+
+.monitoredstud,.findstud,.profileparent{
+    position: fixed;
+}
+.monitoredstud{
+    margin-top: 100px;
+}
+
+.profiledefault{
+    width: 130px;
+    height: 140px;
+}
+
+#changeppmodal{
+    position: absolute;
+    width: 400px;
+    margin-top: 200px;
+}
+
+.imgprofiles{
+    width: 300px;
+    height: 390px;
+}
+
+
+
+.parentlist {
+    display:block;
+    overflow:auto;
+    height:400px;
+}
+
+.profiledefault2{
+    width: 100px;
+    height: 120px;
+}
+
+.profiledefault3{
+    width: 50px;
+    height: 70px;
+}
+
+.content2{
+    height: 380px;
+}
+
+.text-black{
+    color: black ;
+}
+
+
+#deletepost{
+    position: absolute;
+    width: 400px;
+    margin-top: 200px;
+}
+
+
